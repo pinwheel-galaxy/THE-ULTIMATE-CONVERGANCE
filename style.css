@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+#convergance_of_apps{
+    background-color: brown;
+}
+#convergane_of_games{
+    background-color: rgb(255, 0, 0);
+}
+#convergance_of_chatbots{
+    background-color: rgb(0, 255,255);
+}
+#gg {
+    background-color: rgb(0, 47, 255);
+}
+#gg img{
+ height:50 px;    
+}
